@@ -1,21 +1,21 @@
 /* li { 
     list-style-type: none;
 } */
-.about {
+.hero {
     background: #2F303A;
     height: 600px;
     text-align: center;
 }
-.about-content {
+.hero-title {
     font-size: 44px;
     /* text-align: center; */
     padding-top: 200px;
-    padding-bottom: 30px;
+    padding-bottom: ;
 }
 ul {
     text-align: center;
 }
-.list-item {
+.feature-item {
     list-style-type: none;
     display:inline-block; 
     max-width: 200px;
